@@ -64,5 +64,5 @@ def update_element_from_index(array,index_number,element)
 def a_method(1,2)
   puts "Hi"
   1+2
-  a_method(1,2) #=> 3
+  a_method (1,2) #=> 3
 end
